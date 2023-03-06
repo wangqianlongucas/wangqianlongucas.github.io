@@ -1,20 +1,40 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-  <title>Hexo</title>
+  <title>wangqianlongucas</title>
   
   
   <link href="http://example.com/atom.xml" rel="self"/>
   
   <link href="http://example.com/"/>
-  <updated>2023-03-06T11:30:44.634Z</updated>
+  <updated>2023-03-06T11:42:49.853Z</updated>
   <id>http://example.com/</id>
   
   <author>
-    <name>John Doe</name>
+    <name>wangqianlong</name>
     
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>test</title>
+    <link href="http://example.com/2023/03/06/test/"/>
+    <id>http://example.com/2023/03/06/test/</id>
+    <published>2023-03-06T11:42:12.000Z</published>
+    <updated>2023-03-06T11:42:49.853Z</updated>
+    
+    <content type="html"><![CDATA[<h1 id="C-and-Python"><a href="#C-and-Python" class="headerlink" title="C++ and Python"></a>C++ and Python</h1><h2 id="python-给-C-传参数"><a href="#python-给-C-传参数" class="headerlink" title="python 给 C++传参数"></a>python 给 C++传参数</h2><h2 id="C-给-python-返回参数"><a href="#C-给-python-返回参数" class="headerlink" title="C++ 给 python 返回参数"></a>C++ 给 python 返回参数</h2><h2 id="g-的安装"><a href="#g-的安装" class="headerlink" title="g++ 的安装"></a>g++ 的安装</h2><h2 id="python-32位安装"><a href="#python-32位安装" class="headerlink" title="python 32位安装"></a>python 32位安装</h2><h2 id="注意"><a href="#注意" class="headerlink" title="注意"></a>注意</h2><h1 id="电脑集群"><a href="#电脑集群" class="headerlink" title="电脑集群"></a>电脑集群</h1><h1 id="linux-docker"><a href="#linux-docker" class="headerlink" title="linux docker"></a>linux docker</h1>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;h1 id=&quot;C-and-Python&quot;&gt;&lt;a href=&quot;#C-and-Python&quot; class=&quot;headerlink&quot; title=&quot;C++ and Python&quot;&gt;&lt;/a&gt;C++ and Python&lt;/h1&gt;&lt;h2 id=&quot;python-给-C-传参数&quot;&gt;&lt;a hr</summary>
+      
+    
+    
+    
+    
+  </entry>
   
   <entry>
     <title>Hello World</title>
